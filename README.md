@@ -12,13 +12,13 @@ Decodes F5 BIG-IP persistence cookies to identify the encoded destination server
 - Language: Python
 - Purpose: Assist with persistence troubleshooting and traffic analysis
 
-### External Data Group Automation
+### Azion Origin Shield Updater
 
-Automates the creation or update of external data groups used by F5 BIG-IP configurations.
+Retrieves updated Azion Origin Shield addresses through the Azion API and updates an external data group on F5 BIG-IP.
 
-- [Documentation](./external-data-group/)
+- [Documentation](./azion-origin-shield/)
 - Language: Python
-- Purpose: Automate external data group management and reduce manual configuration
+- Purpose: Keep F5 BIG-IP synchronized with changing Azion Origin Shield addresses
 
 ### General Scripts
 
