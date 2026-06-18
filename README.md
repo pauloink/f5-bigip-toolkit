@@ -20,13 +20,6 @@ Retrieves updated Azion Origin Shield addresses through the Azion API and update
 - Language: Python
 - Purpose: Keep F5 BIG-IP synchronized with changing Azion Origin Shield addresses
 
-### General Scripts
-
-Additional scripts and utilities for F5 BIG-IP administration and troubleshooting.
-
-- [Documentation](./general-scripts/)
-- Language: Shell and configuration files
-- Purpose: Centralize reusable operational tools for F5 BIG-IP environments
 
 ## Requirements
 
