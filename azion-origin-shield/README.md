@@ -1,5 +1,7 @@
-# Azion Origin Shield Updater for F5 BIG-IP
+### Azion Origin Shield Updater
 
-Retrieves the current Azion Origin Shield addresses through the Azion API and prepares them for use in F5 BIG-IP configurations.
+Retrieves updated Azion Origin Shield addresses through the Azion API and integrates them with F5 BIG-IP configurations.
 
-Documentation and usage instructions will be added during the migration.
+- [Documentation](./azion-origin-shield/)
+- Language: Python
+- Purpose: Keep F5 BIG-IP configurations synchronized with changing Azion Origin Shield addresses
